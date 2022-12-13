@@ -3,6 +3,7 @@
 using AdventCode.Cinco;
 using AdventCode.Dos;
 using AdventCode.Quatro;
+using AdventCode.Seis;
 using AdventCode.Tres;
 using AdventCode.Uno;
 // Day 1
@@ -12,3 +13,4 @@ DayTwo.Run();
 DayThree.Run();
 DayFour.Run();
 DayFive.Run();
+DaySix.Run();
